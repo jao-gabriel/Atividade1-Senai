@@ -14,4 +14,4 @@ Git pull
 Git checkout
 Git config
 Git  merge
-git checkout 
+git checkout
